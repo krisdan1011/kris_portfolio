@@ -52,11 +52,11 @@ const Experience = ({ secHeight, navID }: CommonProps) => {
           <TimelineConnector />
         </TimelineSeparator>
         <TimelineContent>
-        <h1>Senior Front-End Developer( 2020 – 2024)</h1>
+        <h1>Senior Front-End Developer(2020 – 2024)</h1>
             <h3><Link
                     color={"inherit"}
                     underline="hover"
-                    href="https://www.apu.edu.my/"
+                    href="https://thexoteam.com/"
                     target="_blank"
                     rel="noopener"
                   >XO IT Services</Link>, Canada : remote</h3>
@@ -75,8 +75,14 @@ const Experience = ({ secHeight, navID }: CommonProps) => {
           <TimelineConnector />
         </TimelineSeparator>
         <TimelineContent align="left">
-        <h1>Front-End Developer Intern( 2018 – 2020 )</h1>
-            <h3>Roweb Development, Canada : hybird</h3>
+        <h1>Front-End Developer Intern(2018 – 2020)</h1>
+            <h3><Link
+                    color={"inherit"}
+                    underline="hover"
+                    href="https://www.roweb.ro/"
+                    target="_blank"
+                    rel="noopener"
+                  >Roweb Development</Link>, Canada : hybird</h3>
             ● Participated in the initial wave of developers learning and implementing the React.JS library.
             <br></br>● Rewrote HTML to meet industry and company standards for SEO and Accessibility. This drove a 600% increase in users by appearing on the first page of Google search results.
             <br></br>● Tested, debugged, and shipped 10s of 1000s of lines of code to various development teams. This lead to 100% bug-free deployment.
@@ -91,8 +97,14 @@ const Experience = ({ secHeight, navID }: CommonProps) => {
           <TimelineConnector />
         </TimelineSeparator>
         <TimelineContent>
-        <h1>Junior Front-End Developer( 2017 – 2018 )</h1>
-            <h3>CHES Special Risk Inc., Canada : remote</h3>
+        <h1>Junior Front-End Developer(2017 – 2018)</h1>
+            <h3><Link
+                    color={"inherit"}
+                    underline="hover"
+                    href="https://www.chesspecialrisk.ca/"
+                    target="_blank"
+                    rel="noopener"
+                  >CHES Special Risk Inc</Link>, Canada : remote</h3>
             ● Assisted the development team in maintaining 8 websites.
             <br></br>● Implemented front-end technical solutions to meet project requirements for creation of 5 new web pages.
             <br></br> ● Ensured 6 unique projects complied with correct technology processes, industry best practices, and company standards.
@@ -108,8 +120,14 @@ const Experience = ({ secHeight, navID }: CommonProps) => {
           <TimelineDot />
         </TimelineSeparator>
         <TimelineContent>
-        <h1>Entry-level Front-end Developer( 2016 - 2017 )</h1>
-            <h3>Infinite Code, Malaysia : on site</h3>
+        <h1>Entry level Frontend Developer(2016 - 2017)</h1>
+            <h3><Link
+                    color={"inherit"}
+                    underline="hover"
+                    href="http://infinite-code.com/"
+                    target="_blank"
+                    rel="noopener"
+                  >Infinite Code</Link>, Malaysia : on site</h3>
             ● Developed responsive UI using HTML, CSS, and JavaScript
             <br></br>● Implemented wireframes and mockups with UX designers
             <br></br>● Optimized web pages for maximum speed and scalability
